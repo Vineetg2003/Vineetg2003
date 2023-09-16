@@ -1,4 +1,4 @@
-![image](https://github.com/Vineetg2003/Vineetg2003/assets/130477475/f6428c4e-949d-45c6-aeb3-8fc9cf43ad0d)![logo](https://github.com/Vineetg2003/Vineetg2003/blob/main/banner.png)
+![logo](https://github.com/Vineetg2003/Vineetg2003/blob/main/Future_of_Artificial_Intelligence.gif)
 <h1 align="center">Hi👋 Coders , I'm Vineet Goyal</h1>
 <h3 align="center">A Passionate Full Stack developer from Bharat🫠</h3>
 
