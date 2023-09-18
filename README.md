@@ -1,4 +1,4 @@
-![logo](https://github.com/Vineetg2003/Vineetg2003/blob/main/Screenshot%202023-09-16%20220907.png)
+![logo](https://github.com/Vineetg2003/Vineetg2003/blob/main/Screenshot%202023-09-19%20000200.png)
 <h1 align="center">Hi👋 Coders , I'm Vineet Goyal</h1>
 <h3 align="center">A Passionate Full Stack developer from Bharat🫠</h3>
 
