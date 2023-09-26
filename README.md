@@ -1,4 +1,4 @@
-![logo](https://github.com/Vineetg2003/Vineetg2003/blob/main/Screenshot%202023-09-19%20000200.png)
+![logo](https://www.interactions.com/wp-content/uploads/2018/10/pure_vs_pragmatic_ai_2000x500.jpg)
 <h1 align="center">Hi👋 Coders , I'm Vineet Goyal</h1>
 <h3 align="center">A Passionate Full Stack developer from Bharat🫠</h3>
 
