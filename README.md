@@ -6,9 +6,9 @@
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1446559/screenshots/5453050/media/ff7fdbdc9b667c74cc57db48bfc2ffc7.gif" style="margin-top: 5;">
 - 🎓 I'm pursuing my Btech in **Artificial Intelligence and Data Science from Maharaja Agrasen Institute of Technology, Delhi**
 
-- 🌱 I’m currently learning **Web Development & DSA in C++**
+- 🌱 I’m currently learning **Full Stack Web Development & DSA in C++**
 
-- 🔭 I’m currently working on **HR Intern At Subhansh Sewa Trust**
+- 🔭 I’m currently working on **Distance Connect Startup as Frontend Developer**
 
 - 👯 I’m looking to collaborate with- **Open Source Projects**
 
