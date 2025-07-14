@@ -1,6 +1,5 @@
 <!-- GitHub Profile README for Vineet Goyal -->
 
-<!-- Animated Header Replacement -->
 <!-- Banner Image (hosted in GitHub repo) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vineetg2003/Vineetg2003/main/image.png" 
@@ -43,9 +42,6 @@
   <a href="https://twitter.com/vineetgoya18941" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-@vineetgoya18941-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/vineet_g2003" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-vineet__g2003-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
 </div>
 
 ---
@@ -78,6 +74,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vineetg2003&theme=tokyonight&border_radius=15" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineetg2003&layout=compact&theme=tokyonight&border_radius=15" alt="Top Languages"/>
 </div>
+
+---
+
+### 🔮 Dynamic 3D Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="3D Contribution Graph" />
+</p>
 
 ---
 
