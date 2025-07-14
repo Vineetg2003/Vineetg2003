@@ -1,9 +1,14 @@
 <!-- GitHub Profile README for Vineet Goyal -->
 
 <!-- Animated Header Replacement -->
+<!-- Banner GIF from Google Drive -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 15px;"/>
+  <img src="https://drive.google.com/uc?export=view&id=1ygZQpSSp67KfYWwIgS1bj7XMmrwaxxQc" 
+       alt="AI Banner" 
+       style="border-radius: 15px; box-shadow: 0 0 15px rgba(0,0,0,0.2);" 
+       width="100%">
 </p>
+
 
 <h1 align="center">Hi 👋, I'm <span style="color:#ff4c60">Vineet Goyal</span></h1>
 <h3 align="center">🎓 Data Scientist | 📊 Data Analyst | 💡 AI & ML Enthusiast | 🇮🇳 From Bharat</h3>
