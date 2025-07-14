@@ -1,8 +1,11 @@
 <!-- GitHub Profile README for Vineet Goyal -->
 
-<!-- Header Banner -->
+<!-- Video Header -->
 <p align="center">
-  <img src="https://www.interactions.com/wp-content/uploads/2018/10/pure_vs_pragmatic_ai_2000x500.jpg" width="90%" style="border-radius: 20px; box-shadow: 0 0 15px rgba(0,0,0,0.2);"/>
+  <video autoplay loop muted playsinline width="100%" style="border-radius: 15px;">
+    <source src="https://github.com/Vineetg2003/Vineetg2003/blob/main/bg.mp4?raw=true" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#ff4c60">Vineet Goyal</span></h1>
@@ -16,8 +19,6 @@
 </p>
 
 ---
-
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1446559/screenshots/5453050/media/ff7fdbdc9b667c74cc57db48bfc2ffc7.gif" style="border:2px solid #ccc; border-radius: 15px; padding: 5px;" />
 
 ### 🧠 About Me
 
@@ -46,9 +47,17 @@
 
 ---
 
-### 🧰 Tech Toolbox
+### 🧰 Tech Toolbox (Core)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,jupyter,cpp,git,github,vscode,html,css,js,react,figma,fastapi,linux,mysql,mongodb,postman,streamlit,pandas,numpy,scikit-learn,tableau,azure" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS EC2-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
 ---
