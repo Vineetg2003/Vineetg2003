@@ -84,13 +84,6 @@
 
 ---
 
-### 📊 Animated Data Science GIF
-<p align="center">
-  <img src="https://media.giphy.com/media/RtBEhU1Lwu6zjRN8id/giphy.gif" width="90%" alt="Data Analytics GIF" style="border-radius:12px;"/>
-</p>
-
----
-
 ### 🧩 Fun Analytics & Quotes
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
