@@ -1,19 +1,16 @@
 <!-- GitHub Profile README for Vineet Goyal -->
 
 <!-- Animated Header Replacement -->
-<!-- Banner GIF from Google Drive -->
-<!-- Banner GIF from Google Drive -->
+<!-- Banner Image (hosted in GitHub repo) -->
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1ygZQpSSp67KfYWwIgS1bj7XMmrwaxxQc" 
-       alt="AI Banner" 
+  <img src="https://raw.githubusercontent.com/Vineetg2003/Vineetg2003/main/image.png" 
+       alt="Data Science Banner" 
        style="border-radius: 15px; box-shadow: 0 0 15px rgba(0,0,0,0.2);" 
        width="100%">
 </p>
 
-
-
 <h1 align="center">Hi 👋, I'm <span style="color:#ff4c60">Vineet Goyal</span></h1>
-<h3 align="center">🎓 Data Scientist | 📊 Data Analyst | 💡 AI & ML Enthusiast | 🇮🇳 From Bharat</h3>
+<h3 align="center">🎓 Final Year B.Tech Student | 📊 Data Analyst | 🤖 AI/ML Researcher | 🇮🇳 From Bharat</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vineetg2003&label=Profile%20views&color=blue&style=flat-square" alt="vineetg2003"/>
@@ -26,13 +23,15 @@
 
 ### 🧠 About Me
 
-- 🎓 B.Tech in **Artificial Intelligence and Data Science**, MAIT Delhi
-- 🔍 Focused on **ML, Data Analytics, Deep Learning, and Cloud Technologies**
-- 📊 Proficient in **Python, SQL, Pandas, Power BI, Tableau, Scikit-learn**
-- 🧪 Currently working on **Audio Deepfake Detection** and **NLP Tasks**
-- 🌐 Building RAG Systems & REST APIs using **FastAPI, Streamlit**
-- 🗃️ Portfolio: [vineetg2003.github.io](https://vineetg2003.github.io/Vineet.github.io/)
-- ⚡ Fun Fact: I debug faster with coffee ☕
+- 🎓 I'm a **4th year B.Tech student in Artificial Intelligence and Data Science** at **Maharaja Agrasen Institute of Technology, Delhi**, currently maintaining a **CGPA of 9.442**
+- 📌 Focused on solving real-world problems using **Data Science, ML, and Deep Learning**
+- 📊 Hands-on with **Exploratory Data Analysis (EDA)**, predictive modeling, and time series forecasting
+- 🧠 Fascinated by topics like **LLMs, RAG, Computer Vision, Generative AI, and Cloud AI tools**
+- 💡 Strong foundation in **Python, SQL, Scikit-learn, Pandas, Power BI, Tableau**
+- 🛠️ Developing data-driven applications with **Streamlit, FastAPI**, and deploying ML APIs
+- 📚 Active contributor to academic research and AI-based hackathon projects
+- 🗃️ Passionate about building impactful solutions and automating insight generation from large data
+- 🎯 Always looking to learn, innovate, and collaborate
 
 ---
 
@@ -61,14 +60,14 @@
   <img src="https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS%20EC2-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
 ---
@@ -101,6 +100,6 @@
 
 ---
 
-<p align="center"><i>"Turning raw data into powerful insights — one model at a time."</i></p>
+<p align="center"><i>"Transforming complex data into actionable insights with precision and purpose."</i></p>
 
 ---
